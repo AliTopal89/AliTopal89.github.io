@@ -43,8 +43,8 @@ a.sbl {
 }
 
 a.sbl:hover {
-	opacity:.3;
-    background-color: #000;
+
+	-webkit-filter: invert(100%);    
 }
 
 
