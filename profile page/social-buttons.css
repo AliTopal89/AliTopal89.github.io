@@ -1,0 +1,99 @@
+
+a.sbg {
+	width: 45px;
+	height: 45px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	text-indent: -900em;
+	text-decoration: none;
+	line-height: 100%;
+	white-space: nowrap;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 2px 5px 0;
+
+	background-image: url("https://wiki.gentoo.org/images/thumb/5/55/Github_logo.png/45px-Github_logo.png");
+	border: solid 1px #b8b8b9;
+	
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 22.5px;
+}
+a.sbg:hover {
+	background-color: #4d7de1;
+}
+
+a.sbl {
+	width: 45px;
+	height: 45px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	text-indent: -900em;
+	text-decoration: none;
+	line-height: 100%;
+	white-space: nowrap;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 2px 5px 0;
+	background-image: url("http://www2.schneider-electric.com/images/pictures/access-to-energy/linkedin-logo-50.png");
+	
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 22.5px; 
+}
+
+a.sbl:hover {
+	opacity:.3;
+    background-color: #000;
+}
+
+
+a.sbh {
+	width: 45px;
+	height: 45px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	text-indent: -900em;
+	text-decoration: none;
+	line-height: 100%;
+	white-space: nowrap;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 2px 5px 0;
+	background-image: url("http://www.topjavablogs.com/spring/icon/5838");
+	border: solid 1px #b8b8b9;
+	
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 22.5px; 
+
+}
+
+a.sbh:hover {
+	background-color: #E8E8E8;
+}
+
+a.sbc {
+	width: 45px;
+	height: 45px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	text-indent: -900em;
+	text-decoration: none;
+	line-height: 100%;
+	white-space: nowrap;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 2px 5px 0;
+	background-image: url("http://codeskulptor.appspot.com/include/favicon.ico");
+	border: solid 1px #b8b8b9;
+	
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 22.5px;
+}
+
+a.sbc:hover {
+	background-color: #FFFFCC;
+}
+  	
