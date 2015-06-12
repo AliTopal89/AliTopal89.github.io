@@ -27,6 +27,7 @@ a.sbl {
 	width: 45px;
 	height: 45px;
 	background-repeat: no-repeat;
+	background-size: 100%;
 	background-position: center center;
 	text-indent: -900em;
 	text-decoration: none;
@@ -35,7 +36,7 @@ a.sbl {
 	display: inline-block;
 	vertical-align: middle;
 	margin: 0 2px 5px 0;
-	background-image: url("http://www2.schneider-electric.com/images/pictures/access-to-energy/linkedin-logo-50.png");
+	background-image: url("http://robertakarobin.github.io/in.png");
 	
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
@@ -44,7 +45,8 @@ a.sbl {
 
 a.sbl:hover {
 
-	-webkit-filter: invert(100%);    
+	background-size: contain;
+	background-color: orange;    
 }
 
 
