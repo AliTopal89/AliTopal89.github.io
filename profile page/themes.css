@@ -88,4 +88,14 @@ p.bold {
 a:hover {
     color: #036;
   }
-  
+  p.ga{
+    font-size: 22px;
+  font-weight: bold;
+
+  }
+
+  p.coursera {
+     font-size: 22px;
+  font-weight: bold;
+
+  }
