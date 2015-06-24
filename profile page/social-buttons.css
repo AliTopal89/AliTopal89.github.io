@@ -36,8 +36,8 @@ a.sbl {
 	display: inline-block;
 	vertical-align: middle;
 	margin: 0 2px 5px 0;
-	background-image: url("http://robertakarobin.github.io/in.png");
-	
+	background-image: url("http://tcsaonline.com/wp-content/uploads/2012/02/LinkedIn-Icon.png");
+	border: solid 1px #b8b8b9;
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 	border-radius: 22.5px; 
@@ -98,4 +98,6 @@ a.sbc {
 a.sbc:hover {
 	background-color: #FFFFCC;
 }
+
+
   	

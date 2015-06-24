@@ -50,14 +50,7 @@ h2 {
   font-family:"Futura";
   color:orange;
 }
-/*.git{
-  display: inline-block;
-  font-family: FontAwesome;
-  font-style: normal;
-  font-weight: normal;
-  line-height: 1;
-  -webkit-font-smoothing: antialiased;
-}*/
+
 
 p
 {
@@ -99,3 +92,13 @@ a:hover {
   font-weight: bold;
 
   }
+  a.sbpdf {
+  font-family:"Futura";
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  color: orange;
+  margin-top: 2.2em;
+  margin-bottom:1.6em;
+  padding-bottom: 25px;
+}
