@@ -27,14 +27,13 @@ body
 }
 
 .profilepic {
-    height:300px;
-    width:300px;
+    width:18em;
+    max-height:18em;
     margin-top: 0.4em;
     margin-bottom: 1.6em;
-    background-size:auto;
     display: inline-block;
-    border-radius: 145px;
-    background-size: contain;
+    border-radius: 9em;
+    background-size:cover;
 }
 h1
 {
