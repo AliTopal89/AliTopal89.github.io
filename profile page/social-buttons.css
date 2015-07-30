@@ -49,6 +49,30 @@ a.sbl:hover {
 	background-color: orange;    
 }
 
+a.sbt {
+	width: 45px;
+	height: 45px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	text-indent: -900em;
+	text-decoration: none;
+	line-height: 100%;
+	white-space: nowrap;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 2px 5px 0;
+
+	background-image: url("https://sarahprager.files.wordpress.com/2012/10/sarita_twitter2.png?w=50&h=50");
+	border: solid 1px #b8b8b9;
+	
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 22.5px;
+}
+a.sbt:hover {
+	background-color: #2ECCFA;
+
+}
 
 a.sbh {
 	width: 45px;
@@ -74,6 +98,7 @@ a.sbh {
 a.sbh:hover {
 	background-color: #E8E8E8;
 }
+
 
 a.sbc {
 	width: 45px;
