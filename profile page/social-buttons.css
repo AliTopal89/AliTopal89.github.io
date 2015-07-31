@@ -74,6 +74,31 @@ a.sbt:hover {
 
 }
 
+a.sbf {
+	width: 45px;
+	height: 45px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	text-indent: -900em;
+	text-decoration: none;
+	line-height: 100%;
+	white-space: nowrap;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 2px 5px 0;
+
+	background-image: url("https://medium.com/img/email/fb_logo.png");
+	border: solid 1px #b8b8b9;
+	
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 22.5px;
+}
+a.sbf:hover {
+	background-color: #FFFFFF;
+
+}
+
 a.sbh {
 	width: 45px;
 	height: 45px;
