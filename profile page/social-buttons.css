@@ -27,16 +27,15 @@ a.sbl {
 	width: 45px;
 	height: 45px;
 	background-repeat: no-repeat;
-	background-size: 100%;
+	background-size: 115%;
 	background-position: center center;
 	text-indent: -900em;
 	text-decoration: none;
 	line-height: 100%;
-	white-space: nowrap;
 	display: inline-block;
 	vertical-align: middle;
 	margin: 0 2px 5px 0;
-	background-image: url("http://tcsaonline.com/wp-content/uploads/2012/02/LinkedIn-Icon.png");
+	background-image: url("https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png");
 	border: solid 1px #b8b8b9;
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
@@ -45,7 +44,7 @@ a.sbl {
 
 a.sbl:hover {
 
-	background-size: contain;
+	background-size: 115%;
 	background-color: orange;    
 }
 
