@@ -3,6 +3,7 @@ a.sbg {
 	width: 45px;
 	height: 45px;
 	background-repeat: no-repeat;
+	background-color: #fff;
 	background-position: center center;
 	text-indent: -900em;
 	text-decoration: none;
@@ -28,6 +29,7 @@ a.sbl {
 	height: 45px;
 	background-repeat: no-repeat;
 	background-size: 115%;
+	background-color: #fff;
 	background-position: center center;
 	text-indent: -900em;
 	text-decoration: none;
@@ -53,6 +55,7 @@ a.sbt {
 	height: 45px;
 	background-repeat: no-repeat;
 	background-position: center center;
+	background-color: #fff;
 	text-indent: -900em;
 	text-decoration: none;
 	line-height: 100%;
@@ -78,6 +81,7 @@ a.sbf {
 	height: 45px;
 	background-repeat: no-repeat;
 	background-position: center center;
+	background-color: #fff;
 	text-indent: -900em;
 	text-decoration: none;
 	line-height: 100%;
@@ -103,6 +107,7 @@ a.sbh {
 	height: 45px;
 	background-repeat: no-repeat;
 	background-position: center center;
+	background-color: #fff;
 	text-indent: -900em;
 	text-decoration: none;
 	line-height: 100%;
@@ -129,6 +134,7 @@ a.sbc {
 	height: 45px;
 	background-repeat: no-repeat;
 	background-position: center center;
+	background-color: #fff;
 	text-indent: -900em;
 	text-decoration: none;
 	line-height: 100%;

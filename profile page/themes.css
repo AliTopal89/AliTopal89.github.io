@@ -95,6 +95,7 @@ a:hover {
   a.sbpdf {
   font-family:"Futura";
   font-size: 20px;
+  background-color: #fff;
   font-weight: bold;
   text-decoration: none;
   color: orange;
