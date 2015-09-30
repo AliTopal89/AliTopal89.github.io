@@ -81,7 +81,7 @@ a.sbf {
 	height: 45px;
 	background-repeat: no-repeat;
 	background-position: center center;
-	background-color: #1E90FF;
+	background-color:#FFFFFF ;
 	text-indent: -900em;
 	text-decoration: none;
 	line-height: 100%;
@@ -98,7 +98,7 @@ a.sbf {
 	border-radius: 22.5px;
 }
 a.sbf:hover {
-	background-color: #FFFFFF;
+	background-color: #7FFFD4;
 
 }
 
