@@ -267,7 +267,7 @@ header {
     text-align: center;
     color: orange;
     background-attachment: scroll;
-    background-image: url(http://www.foleyhoag.com/~/media/Images/Foley%20Hoag/Page/Background/BG_DC_office.png);
+    background-image: url('../profile page/images/dc.png');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
