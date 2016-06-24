@@ -1625,7 +1625,7 @@ a.bg-success:hover {
 }
 
 a.bg-info:hover {
-  background-color: #afd9ee;
+  background-color: red;
 }
 
 .bg-warning {

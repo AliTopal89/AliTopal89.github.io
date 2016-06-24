@@ -1129,6 +1129,8 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+}
 .img-rounded {
   border-radius: 6px;
 }
@@ -1386,6 +1388,7 @@ a.bg-success:hover {
 }
 .bg-info {
   background-color: #d9edf7;
+  color: blue;
 }
 a.bg-info:hover {
   background-color: #afd9ee;

@@ -870,6 +870,11 @@ img::-moz-selection {
     background: 0 0;
 }
 
+#referu.img-responsive{
+  display: block;
+  height: 100%;
+}
+
 body {
     webkit-tap-highlight-color: #fed136;
 }
