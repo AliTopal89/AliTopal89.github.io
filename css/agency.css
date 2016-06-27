@@ -19,8 +19,9 @@ body {
 
 p {
     font-size: 16px;
-    line-height: 1.75;
+    line-height: 2.00;
     text-align: justify;
+    padding-bottom: 17px;
 }
 
 p.large {
@@ -328,8 +329,8 @@ section {
 }
 
 section h2.section-heading {
-    margin-top: 0;
-    margin-bottom: 15px;
+    margin-top: 14px;
+    margin-bottom: 22px;
     font-size: 40px;
 }
 
@@ -873,6 +874,11 @@ img::-moz-selection {
 #referu.img-responsive{
   display: block;
   height: 100%;
+}
+
+#date.img-responsive {
+    display: block;
+    height: 100%;
 }
 
 body {
