@@ -97,8 +97,9 @@ a.sbf {
 	-moz-border-radius: 5px;
 	border-radius: 22.5px;
 }
+
 a.sbf:hover {
-	background-color: #87CEFF;
+	background-color: #f04098;
 
 }
 
