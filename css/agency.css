@@ -806,6 +806,12 @@ img::-moz-selection {
     background: 0 0;
 }
 
+#calenda_item.png-responsive {
+  display: block;
+  height: 100%;
+  width: 100% 
+}
+
 #referu.img-responsive{
   display: block;
   height: 100%;
