@@ -806,10 +806,17 @@ img::-moz-selection {
     background: 0 0;
 }
 
-#calenda_item.png-responsive {
+#cms_site.png-responsive {
   display: block;
-  height: 100%;
-  width: 100% 
+  height: 10)%;
+   
+}
+
+#justice {
+  display: block;
+  height: 102%;
+  width: 100%
+   
 }
 
 #referu.img-responsive{
