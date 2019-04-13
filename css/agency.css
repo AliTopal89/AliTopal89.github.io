@@ -812,6 +812,12 @@ img::-moz-selection {
    
 }
 
+#terra {
+  display: block;
+  height: 100%;
+  width: 100% 
+}
+
 #justice {
   display: block;
   height: 102%;
